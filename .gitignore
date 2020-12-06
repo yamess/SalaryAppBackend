@@ -263,3 +263,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+AttendanceService/
+AuthenticationService/.idea/vcs.xml
+AuthenticationService/templates/
+BillingService/
+EmployeeService/
+SalaryCalculationService/
+TaxeCalculationService/
+TenantService/
